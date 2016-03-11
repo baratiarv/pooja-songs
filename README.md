@@ -6,7 +6,7 @@ This is a markdown version source of Pooja songs ebook
 
 ## Prerequisites
 
-- Pandoc
+- [Pandoc](http://pandoc.org/)
 
 ## Building ##
 
